@@ -3,6 +3,8 @@ html {
   margin: 0;
   color: black;
   background-color: #FFCFCF;
+  padding-left: 30px;
+  min-width: 75%;
 }
 
 .main h1 {
